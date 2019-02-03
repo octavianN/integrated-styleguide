@@ -55,7 +55,7 @@ If you forked the project then the URL needs to be updated to contain your user 
 Test
 ---------------------
 
-You can [open a sample test file](https://www.oxygenxml.com/oxygen-xml-web-author/app/oxygen.html?url=https://github.com/oxygenxml/integrated-styleguide/blob/master/test/sample-direct-ref-schema.dita) in [oXygen XML Web Author](https://www.oxygenxml.com/xml_web_author.html).
+You can [open a sample test file](https://www.oxygenxml.com/oxygen-xml-web-author/app/oxygen.html?url=https://github.com/octaviann/integrated-styleguide/blob/master/test/sample-direct-ref-schema.dita) in [oXygen XML Web Author](https://www.oxygenxml.com/xml_web_author.html).
 
 
 Copyright and License
