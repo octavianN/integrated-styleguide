@@ -18,8 +18,8 @@ USERNAME=`basename $PARENTDIR`
 cd out
 
 git init
-git config user.name "oXygen XML Deployer"
-git config user.email "support@oxygenxml.com"
+git config user.name "Octavian"
+git config user.email "octavian_nadolu@sync.ro"
 
 git remote add upstream "https://$GH_TOKEN@github.com/$USERNAME/$REPONAME.git"
 git fetch upstream
