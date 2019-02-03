@@ -24,7 +24,7 @@
    <!--Generated from topics/images.dita.
     -->
    <pattern is-a="avoidAttributeInElement"
-            see="http://oxygenxml.github.io/integrated-styleguide/topics/images.html">
+            see="http://octavianN.github.io/integrated-styleguide/topics/images.html">
       <param name="element" value="image"/>
       <param name="attribute" value="scale"/>
       <param name="message" value="Please do not scale images in the DITA source"/>
@@ -32,7 +32,7 @@
    <!--Generated from topics/lists.dita.
     -->
    <pattern is-a="avoidEndFragment"
-            see="http://oxygenxml.github.io/integrated-styleguide/topics/lists.html">
+            see="http://octavianN.github.io/integrated-styleguide/topics/lists.html">
       <param name="element" value="li"/>
       <param name="fragment" value=";"/>
       <param name="message" value="List items should not end with semi-colon"/>
@@ -40,7 +40,7 @@
    <!--Generated from topics/lists.dita.
     -->
    <pattern is-a="restrictNumberOfChildren"
-            see="http://oxygenxml.github.io/integrated-styleguide/topics/lists.html">
+            see="http://octavianN.github.io/integrated-styleguide/topics/lists.html">
       <param name="parentElement" value="ol"/>
       <param name="element" value="li"/>
       <param name="min" value="2"/>
@@ -50,7 +50,7 @@
    <!--Generated from topics/metadata.dita.
     -->
    <pattern is-a="restrictNesting"
-            see="http://oxygenxml.github.io/integrated-styleguide/topics/metadata.html">
+            see="http://octavianN.github.io/integrated-styleguide/topics/metadata.html">
       <param name="element" value="indexterm"/>
       <param name="maxNestingLevel" value="1"/>
       <param name="message" value="indexterms"/>
@@ -58,7 +58,7 @@
    <!--Generated from topics/metadata.dita.
     -->
    <pattern is-a="avoidWordInElement"
-            see="http://oxygenxml.github.io/integrated-styleguide/topics/metadata.html">
+            see="http://octavianN.github.io/integrated-styleguide/topics/metadata.html">
       <param name="element" value="indexterm"/>
       <param name="word" value="oXygen"/>
       <param name="message" value="Do not use oXygen in index terms!"/>
@@ -66,7 +66,7 @@
    <!--Generated from topics/metadata.dita.
     -->
    <pattern is-a="restrictWords"
-            see="http://oxygenxml.github.io/integrated-styleguide/topics/metadata.html">
+            see="http://octavianN.github.io/integrated-styleguide/topics/metadata.html">
       <param name="parentElement" value="title"/>
       <param name="minWords" value="1"/>
       <param name="maxWords" value="12"/>
