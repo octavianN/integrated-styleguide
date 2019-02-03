@@ -63,5 +63,36 @@
 				</dl>
 			</p>
 		</section>
+		<section id="section_bqr_1tf_rgb">
+			<title>Unordered list </title>
+			<p>
+				<dl audience="rules">
+					<dlhead>
+						<dthd>Rule</dthd>
+						<ddhd>restrictNumberOfChildren</ddhd>
+					</dlhead>
+					<dlentry>
+						<dt>parentElement</dt>
+						<dd>ul</dd>
+					</dlentry>
+					<dlentry>
+						<dt>element</dt>
+						<dd>li</dd>
+					</dlentry>
+					<dlentry>
+						<dt>min</dt>
+						<dd>2</dd>
+					</dlentry>
+					<dlentry>
+						<dt>max</dt>
+						<dd>8</dd>
+					</dlentry>
+					<dlentry>
+						<dt>message</dt>
+						<dd>The number of items soul be between 2 and 8</dd>
+					</dlentry>
+				</dl>
+			</p>
+		</section>
     </body>
 </topic>
