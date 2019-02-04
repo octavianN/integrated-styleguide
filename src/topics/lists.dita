@@ -6,10 +6,9 @@
     <body>
 		<section id="section_shc_vwk_p2b">
 			<title>Ending list items</title>
-			<p><?oxy_comment_start author="George Bina" timestamp="20190123T194950+0000" comment="This should be changed..."?>List
-				items should not end with semi-colon. If it is something short leave
-				it<?oxy_comment_end?> without a punctuation mark, otherwise you can end it with the
-				normal sentence ending, for example a full stop.</p>
+			<p>List items should not end with semi-colon. If it is something short leave it without a
+				punctuation mark, otherwise you can end it with the normal sentence ending, for
+				example a full stop.</p>
 			<p>
 				<dl audience="rules">
 					<dlhead>
@@ -59,37 +58,6 @@
 					<dlentry>
 						<dt>message</dt>
 						<dd>some message...</dd>
-					</dlentry>
-				</dl>
-			</p>
-		</section>
-		<section id="section_bqr_1tf_rgb">
-			<title>Unordered list </title>
-			<p>
-				<dl audience="rules">
-					<dlhead>
-						<dthd>Rule</dthd>
-						<ddhd>restrictNumberOfChildren</ddhd>
-					</dlhead>
-					<dlentry>
-						<dt>parentElement</dt>
-						<dd>ul</dd>
-					</dlentry>
-					<dlentry>
-						<dt>element</dt>
-						<dd>li</dd>
-					</dlentry>
-					<dlentry>
-						<dt>min</dt>
-						<dd>2</dd>
-					</dlentry>
-					<dlentry>
-						<dt>max</dt>
-						<dd>8</dd>
-					</dlentry>
-					<dlentry>
-						<dt>message</dt>
-						<dd>The number of items soul be between 2 and 8</dd>
 					</dlentry>
 				</dl>
 			</p>
