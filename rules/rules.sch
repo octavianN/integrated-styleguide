@@ -47,16 +47,6 @@
       <param name="max" value="10"/>
       <param name="message" value="some message..."/>
    </pattern>
-   <!--Generated from topics/lists.dita.
-    -->
-   <pattern is-a="restrictNumberOfChildren"
-            see="http://octavianN.github.io/integrated-styleguide/topics/lists.html">
-      <param name="parentElement" value="ul"/>
-      <param name="element" value="li"/>
-      <param name="min" value="2"/>
-      <param name="max" value="8"/>
-      <param name="message" value="The number of items soul be between 2 and 8"/>
-   </pattern>
    <!--Generated from topics/metadata.dita.
     -->
    <pattern is-a="restrictNesting"
