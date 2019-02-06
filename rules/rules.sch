@@ -45,7 +45,7 @@
       <param name="element" value="li"/>
       <param name="min" value="2"/>
       <param name="max" value="10"/>
-      <param name="message" value="some message..."/>
+      <param name="message" value="some message...."/>
    </pattern>
    <!--Generated from topics/metadata.dita.
     -->
