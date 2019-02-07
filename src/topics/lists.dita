@@ -65,34 +65,7 @@
 		<section id="section_bhw_cc2_sgb">
 			<title>Number of items in unordered list</title>
 			<p>An unordered list should contain more than 2 items and no more than 8 items.</p>
-			<p>
-				<dl audience="rules">
-					<dlhead>
-						<dthd>Rule</dthd>
-						<ddhd>restrictNumberOfChildren</ddhd>
-					</dlhead>
-					<dlentry>
-						<dt>parentElement</dt>
-						<dd>ul</dd>
-					</dlentry>
-					<dlentry>
-						<dt>element</dt>
-						<dd>li</dd>
-					</dlentry>
-					<dlentry>
-						<dt>min</dt>
-						<dd>2</dd>
-					</dlentry>
-					<dlentry>
-						<dt>max</dt>
-						<dd>8</dd>
-					</dlentry>
-					<dlentry>
-						<dt>message</dt>
-						<dd>The list should have minimum 2 and maximum 8 items</dd>
-					</dlentry>
-				</dl>
-			</p>
+			<p/>
 		</section>
     </body>
 </topic>
